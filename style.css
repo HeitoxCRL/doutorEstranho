@@ -1,0 +1,77 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+
+#div1{
+    text-align: center;
+    margin:0%;
+    height: 800px;
+    background-image:url(capa.jpg);
+    background-attachment: fixed;
+    background-size:100% 100%;
+}
+
+
+#div3{
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 300px;
+    background-size: 100% 100%;
+}
+
+#div4{
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 300px;
+    text-align: justify;
+    word-spacing: 3px;
+
+
+}
+.final a{
+    color: white;
+    text-decoration: none;
+    background-color: red;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.final h3{
+    height: 50px;
+}
+
+.final p{
+    height: 150px ;
+}
+.justificado{
+    margin-left: 200px;
+    text-align: justify;
+    word-spacing: 3px;
+    line-height: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+}
+
+.Cima{
+    padding-top: 30px;
+}
+.Cima h1{
+    width: 300px;
+    padding: 20px;
+    margin-left: 640px;
+    color: white;
+    background-color: black;
+}
+.Cima h2{
+    
+    width: 300px;
+    padding: 20px;
+    margin-left: 640px;
+    background-color: red;
+    color: white;
+}
